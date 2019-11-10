@@ -1,0 +1,9 @@
+header#cabecalho-principal{
+    background-color: rgb(24, 137, 165);
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+}
