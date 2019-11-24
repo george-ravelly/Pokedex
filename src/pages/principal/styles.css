@@ -1,0 +1,32 @@
+.tela {
+	margin: 20px auto 0;
+	max-width: 720px;
+	padding: 0 20px;
+}
+.tela .name {
+	display: inline-block;
+	text-align: center;
+	border: 5px solid wheat;
+	background: tomato;
+	padding: 10px;
+	font-size: 0.5rem;
+	margin-bottom: 2px;
+	color: whitesmoke;
+	text-decoration: none;
+}
+.tela a {
+	display: flex;
+	background: whitesmoke;
+	border: 5px solid wheat;
+	margin-bottom: 5px;
+}
+.tela .paginacao {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.tela article button {
+	cursor: pointer;
+}
